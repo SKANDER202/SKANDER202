@@ -21,12 +21,12 @@ I am a Computer Science student at **ENSIA** (École Nationale Supérieure d'Int
 
 ### 📊 GitHub Statistics
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=REPLACE_WITH_YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REPLACE_WITH_YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SKANDER202&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKANDER202&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
   <br/>
-  <img width="100%" src="https://streak-stats.demolab.com?user=REPLACE_WITH_YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=SKANDER202&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=REPLACE_WITH_YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SKANDER202&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
