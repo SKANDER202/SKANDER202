@@ -57,25 +57,28 @@ I'm a passionate computer science student at ENSIA (École Nationale Supérieure
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=SKANDER202&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKANDER202&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6" alt="Top Languages" />
-  
-  <img src="https://streak-stats.demolab.com/?user=SKANDER202&theme=radical&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
+  <a href="https://github.com/SKANDER202">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SKANDER202&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKANDER202&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+  </a>
 
 </div>
 
-## GitHub Trophies
+## GitHub Streak
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=SKANDER202&theme=radical&no-frame=false&no-bg=false&row=1&column=6" alt="GitHub Trophies" />
-  
+  <img src="https://streak-stats.demolab.com?user=SKANDER202&theme=dark&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
 ## Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SKANDER202&theme=react-dark&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&custom_title=Contribution%20Activity)
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SKANDER202&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
 
 ## Connect With Me
 
