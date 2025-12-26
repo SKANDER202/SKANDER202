@@ -57,11 +57,11 @@ I'm a passionate computer science student at ENSIA (École Nationale Supérieure
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SKANDER202&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6)
+  <img src="https://github-readme-stats.vercel.app/api?username=SKANDER202&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" alt="GitHub Stats" />
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SKANDER202&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKANDER202&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6" alt="Top Languages" />
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SKANDER202&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)
+  <img src="https://streak-stats.demolab.com/?user=SKANDER202&theme=radical&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
 
 </div>
 
@@ -69,13 +69,13 @@ I'm a passionate computer science student at ENSIA (École Nationale Supérieure
 
 <div align="center">
   
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=SKANDER202&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+  <img src="https://github-profile-trophy.vercel.app/?username=SKANDER202&theme=radical&no-frame=false&no-bg=false&row=1&column=6" alt="GitHub Trophies" />
   
 </div>
 
 ## Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SKANDER202&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SKANDER202&theme=react-dark&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&custom_title=Contribution%20Activity)
 
 ## Connect With Me
 
